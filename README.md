@@ -1,7 +1,7 @@
 ### Resources :
 
-	1. [Node Version Manager](https://github.com/creationix/nvm)
-	1. [Express](http://expressjs.com)
+  1. [Node Version Manager](https://github.com/creationix/nvm)
+  1. [Express](http://expressjs.com)
 		- [Guide](http://expressjs.com/guide.html)
 	1. npm - [https://www.npmjs.org](https://www.npmjs.org)
 	1. Template Engines
@@ -20,16 +20,3 @@
 		- [BSON](http://docs.mongodb.org/manual/reference/glossary/#term-bson)
 	1. Tutorials
 		- [Build a RESTful API Using Node and Express 4](http://scotch.io/tutorials/javascript/build-a-restful-api-using-node-and-express-4)
-
-## Table of Contents
-
-  1. [Types](#types)
-  1. [References](#references)
-  1. [Objects](#objects)
-  1. [Arrays](#arrays)
-  1. [Destructuring](#destructuring)
-  1. [Strings](#strings)
-  1. [Functions](#functions)
-  1. [Arrow Functions](#arrow-functions)
-  1. [Constructors](#constructors)
-  1. [Modules](#modules)
